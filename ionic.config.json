@@ -1,0 +1,7 @@
+{
+  "name": "proyectoFutbol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
